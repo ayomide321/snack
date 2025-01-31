@@ -16,6 +16,7 @@
 
 ## 🏎️ Start the Development environment
 
+
 Run `yarn start` from the root to start the Snack development services.
 
 > Some services like the Expo API server and the Expo website are hosted elsewhere and are proxied. The proxies log all incoming requests and auto-redirect to locally running instances when possible.
